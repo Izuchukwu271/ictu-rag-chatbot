@@ -20,3 +20,6 @@ faiss_index/
 
 # Hugging Face model cache
 .cache/
+
+# Separate ICT University knowledge base
+ictukb/
