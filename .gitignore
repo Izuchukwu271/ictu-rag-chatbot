@@ -1,0 +1,22 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Local university documents
+data/documents/
+
+# Local vector database
+vectorstore/
+faiss_index/
+
+# Hugging Face model cache
+.cache/
